@@ -9,7 +9,7 @@
 			"limit"
 		],
 		"RepoUrl": "https://github.com/maributt/FPS-Limiter",
-		"AssemblyVersion": "1.2.5",
+		"AssemblyVersion": "0.0.1",
 		"ApplicableVersion": "any",
 		"DalamudApiLevel": 2,
 		"IsHide": "False",
@@ -29,7 +29,7 @@
 			"bdth"
 		],
 		"RepoUrl": "https://github.com/maributt/BDTHPlugin",
-		"AssemblyVersion": "1.2.5",
+		"AssemblyVersion": "6.6.6",
 		"ApplicableVersion": "any",
 		"DalamudApiLevel": 2,
 		"IsHide": "False",
