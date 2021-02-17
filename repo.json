@@ -9,7 +9,7 @@
 			"limit"
 		],
 		"RepoUrl": "https://github.com/maributt/FPS-Limiter",
-		"AssemblyVersion": "1.0.0.0",
+		"AssemblyVersion": "1.2.5",
 		"ApplicableVersion": "any",
 		"DalamudApiLevel": 1,
 		"IsHide": "False",
