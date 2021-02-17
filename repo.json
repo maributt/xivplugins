@@ -1,0 +1,43 @@
+[
+	{
+		"Author": "maributt",
+		"Name": "FPS Limiter",
+		"InternalName": "FPSLimiter",
+		"Description": "Manage your fps cap with a command and from within macros!\nExample: /fps 2  -> Refresh Rate 1/2",
+		"Tags": [
+			"fps",
+			"limit"
+		],
+		"RepoUrl": "https://github.com/maributt/FPS-Limiter",
+		"AssemblyVersion": "1.0.0.0",
+		"ApplicableVersion": "any",
+		"DalamudApiLevel": 1,
+		"IsHide": "False",
+		"IsTestingExclusive": "False",
+		"DownloadCount": 42069,
+		"LastUpdate": 1609094739,
+		"DownloadLinkInstall": "https://github.com/maributt/FPS-Limiter/releases/download/0.0.1/FPSLimiter.zip",
+		"DownloadLinkTesting": "https://github.com/maributt/FPS-Limiter/releases/download/0.0.1/FPSLimiter.zip",
+		"DownloadLinkUpdate": "https://github.com/maributt/FPS-Limiter/releases/download/0.0.1/FPSLimiter.zip"
+	},
+	{
+		"Author": "LeonBlade ft. naughty child",
+		"Name": "BDTH but naughty and problematic",
+		"InternalName": "BDTHPlugin",
+		"Description": "Move around housing items with coordinates and allows you to place LITERALLY anywhere.\n(well at least in housing wards dingus)",
+		"Tags": [
+			"bdth"
+		],
+		"RepoUrl": "https://github.com/maributt/BDTHPlugin",
+		"AssemblyVersion": "1.2.5",
+		"ApplicableVersion": "any",
+		"DalamudApiLevel": 2,
+		"IsHide": "False",
+		"IsTestingExclusive": "False",
+		"DownloadCount": 0,
+		"LastUpdate": 1613575894,
+		"DownloadLinkInstall": "https://github.com/maributt/BDTHPlugin/releases/download/6.6.6/BDTHPlugin.zip",
+		"DownloadLinkTesting": "https://github.com/maributt/BDTHPlugin/releases/download/6.6.6/BDTHPlugin.zip",
+		"DownloadLinkUpdate": "https://github.com/maributt/BDTHPlugin/releases/download/6.6.6/BDTHPlugin.zip"
+	}
+]
