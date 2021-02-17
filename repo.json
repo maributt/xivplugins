@@ -6,7 +6,7 @@
 		"Description": "Manage your fps cap with a command and from within macros!\nExample: /fps 2  -> Refresh Rate 1/2",
 		"Tags": [
 			"fps",
-			"limit"
+			"limiter"
 		],
 		"RepoUrl": "https://github.com/maributt/FPS-Limiter",
 		"AssemblyVersion": "0.0.1",
