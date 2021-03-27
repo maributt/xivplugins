@@ -1,50 +1,19 @@
 [
 	{
-		"Author": "maributt ft. Xyghra",
-		"Name": "FPS Limiter",
-		"InternalName": "FPSLimiter",
-		"Description": "Manage your fps cap with a command and from within macros!\nExample: /fps 2  -> Refresh Rate 1/2",
-		"Tags": [
-			"fps",
-			"limit"
-		],
-		"RepoUrl": "https://github.com/maributt/FPS-Limiter/",
-		"AssemblyVersion": "0.5",
+		"Author": "maributt",
+		"Name": "FFLogs Lookup",
+		"InternalName": "FFLogsLookup",
+		"AssemblyVersion": "1.0.0.0",
+		"Description": "Display an inspected character's logs directly in-game!",
 		"ApplicableVersion": "any",
+		"RepoUrl": "https://github.com/maributt/FFLogsLookupPlugin",
 		"DalamudApiLevel": 2,
-		"IsHide": "False",
-		"IsTestingExclusive": "False",
-		"DownloadCount": 42069,
-		"LastUpdate": 1609094740,
-		"DownloadLinkInstall": "https://github.com/Xyghra/FPS-Limiter/releases/download/0.5/FPSLimiter.zip",
-		"DownloadLinkTesting": "https://github.com/Xyghra/FPS-Limiter/releases/download/0.5/FPSLimiter.zip",
-		"DownloadLinkUpdate": "https://github.com/Xyghra/FPS-Limiter/releases/download/0.5/FPSLimiter.zip"
-	},
-	{
-		"Author": "LeonBlade who has been publicly cancelled in a twitlonger",
-		"Name": "Sinking Down the Garden",
-		"InternalName": "SDTHPlugin",
-		"Description": "Move around housing items with coordinates and allows you to place LITERALLY anywhere.\n(well at least in housing wards dingus)",
-		"Tags": [
-			"bdth",
-			"cancelled",
-			"naughty",
-			"demonic",
-			"howdareyou",
-			"moon",
-			"is",
-			"fake"
-		],
-		"RepoUrl": "https://github.com/maributt/SDTGPlugin",
-		"AssemblyVersion": "1.2.5",
-		"ApplicableVersion": "any",
-		"DalamudApiLevel": 2,
-		"IsHide": "False",
-		"IsTestingExclusive": "False",
-		"DownloadCount": 800815,
-		"LastUpdate": 1613575894,
-		"DownloadLinkInstall": "https://github.com/maributt/SDTGPlugin/releases/download/1.0/SDTGPlugin.zip",
-		"DownloadLinkTesting": "https://github.com/Xyghra/SDTGPlugin/releases/download/1.0/SDTGPlugin.zip",
-		"DownloadLinkUpdate": "https://github.com/Xyghra/SDTGPlugin/releases/download/1.0/SDTGPlugin.zip"
-	}
+		"DownloadLinkInstall": "https://github.com/maributt/FFLogsLookupPlugin/releases/download/latest/latest.zip",
+		"IsHide": false,
+		"IsTestingExclusive": false,
+		"DownloadLinkTesting": "https://github.com/maributt/FFLogsLookupPlugin/releases/download/latest/latest.zip",
+        	"DownloadLinkUpdate": "https://github.com/maributt/FFLogsLookupPlugin/releases/download/latest/latest.zip",
+        	"DownloadCount": 0,
+        	"LastUpdated": "1616840057"
+	}	
 ]
