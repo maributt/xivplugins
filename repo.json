@@ -15,5 +15,24 @@
         	"DownloadLinkUpdate": "https://github.com/maributt/FFLogsLookupPlugin/releases/download/latest/latest.zip",
         	"DownloadCount": 0,
         	"LastUpdated": "1616850807"
-	}	
+	},
+	
+	{
+		"Author": "maributt",
+		"Name": "FPSLimiter",
+		"InternalName": "FPSLimiter",
+		"AssemblyVersion": "1.0.0.0",
+		"Description": "Lock your in-game fps to custom caps or refresh rate caps!",
+		"ApplicableVersion": "any",
+		"RepoUrl": "https://github.com/maributt/FPS-Limiter",
+		"DalamudApiLevel": 2,
+		"DownloadLinkInstall": "https://github.com/maributt/FPS-Limiter/releases/download/latest/latest.zip",
+		"IsHide": false,
+		"IsTestingExclusive": false,
+		"DownloadLinkTesting": "https://github.com/maributt/FPS-Limiter/releases/download/latest/latest.zip",
+        	"DownloadLinkUpdate": "https://github.com/maributt/FPS-Limiter/releases/download/latest/latest.zip",
+        	"DownloadCount": 0,
+        	"LastUpdated": "1616858880"
+	}
+	
 ]
