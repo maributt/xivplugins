@@ -3,7 +3,7 @@
 		"Author": "maributt",
 		"Name": "FFLogs Lookup",
 		"InternalName": "FFLogsLookup",
-		"AssemblyVersion": "1.0.0.0",
+		"AssemblyVersion": "1.0.0.1",
 		"Description": "Display an inspected character's logs directly in-game!",
 		"ApplicableVersion": "any",
 		"RepoUrl": "https://github.com/maributt/FFLogsLookupPlugin",
