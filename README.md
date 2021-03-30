@@ -1,10 +1,15 @@
-# xivplugins
-repo for very naughty and absolutely game shattering, community dividing and VERY troublesome plugins
+<h1 align="center"><a href="https://github.com/goatcorp/Dalamud">Dalamud</a> plugin repository</h1>
+<p align="center">https://raw.githubusercontent.com/maributt/xivplugins/main/repo.json</p><br>
 
-# how????
-like this:
+<img src="https://user-images.githubusercontent.com/76499752/113011176-d412bc00-9179-11eb-865c-a4a3a7b68cfc.png" width="40%" align="right">
 
-![imaj](https://i.imgur.com/r9hcMhu.png)
+This is a repository housing most of my current plugins that
+I deem more or less complete and stable enough for people to actually use
 
-or like this:::::
+In order to start installing any you should use `/xlsettings` in-game
+and add the following link to your list of Custom Plugin Repositories
+
 https://raw.githubusercontent.com/maributt/xivplugins/main/repo.json
+
+Simply save and bring up the `/xlplugins` Plugin Installer window to
+install any of my plugins afterwards!
