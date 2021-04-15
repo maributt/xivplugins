@@ -35,6 +35,23 @@
         	"LastUpdated": "1618444135"
 	},
 	{
+		"Author": "Caraxi",
+		"Name": "OldMacroRecursion",
+		"InternalName": "OldMacroRecursion",
+		"AssemblyVersion": "1.1.2.2",
+		"Description": "Execute macros from macros. /runmacro ## [shared] [line]",
+		"ApplicableVersion": "any",
+		"RepoUrl": "https://github.com/maributt/OldMacroRecursion",
+		"DalamudApiLevel": 3,
+		"DownloadLinkInstall": "https://github.com/maributt/OldMacroRecursion/releases/download/latest/latest.zip",
+		"IsHide": false,
+		"IsTestingExclusive": false,
+		"DownloadLinkTesting": "https://github.com/maributt/OldMacroRecursion/releases/download/latest/latest.zip",
+        	"DownloadLinkUpdate": "https://github.com/maributt/OldMacroRecursion/releases/download/latest/latest.zip",
+        	"DownloadCount": 0,
+        	"LastUpdated": "1618518151"
+	},
+	{
 		"Author": "LxxnBlxdx ft. mxrxbxtt",
 		"Name": "Sinking Down the Garden",
 		"InternalName": "SDTGPlugin",
