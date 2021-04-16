@@ -50,23 +50,6 @@
         	"DownloadLinkUpdate": "https://github.com/maributt/OldMacroRecursion/releases/download/latest/latest.zip",
         	"DownloadCount": 0,
         	"LastUpdated": "1618518151"
-	},
-	{
-		"Author": "LxxnBlxdx ft. mxrxbxtt",
-		"Name": "Sinking Down the Garden",
-		"InternalName": "SDTGPlugin",
-		"AssemblyVersion": "1.2.6.0",
-		"Description": "SINK DOWN THE GARDEN DO IT GET ON THE NAUGHTY TWITTER LIST :D",
-		"ApplicableVersion": "any",
-		"RepoUrl": "https://github.com/maributt/SDTGPlugin",
-		"DalamudApiLevel": 2,
-		"DownloadLinkInstall": "https://github.com/maributt/SDTGPlugin/releases/download/latest/latest.zip",
-		"IsHide": false,
-		"IsTestingExclusive": false,
-		"DownloadLinkTesting": "https://github.com/maributt/SDTGPlugin/releases/download/latest/latest.zip",
-        	"DownloadLinkUpdate": "https://github.com/maributt/SDTGPlugin/releases/download/latest/latest.zip",
-        	"DownloadCount": 0,
-        	"LastUpdated": "1617058393"
-}
+	}
 	
 ]
