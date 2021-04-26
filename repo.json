@@ -35,6 +35,23 @@
         	"LastUpdated": "1618444135"
 	},
 	{
+		"Author": "Haplo064, maributt",
+		"Name": "Pixel Perfect Plus",
+		"InternalName": "PixelPerfectPlus",
+		"AssemblyVersion": "1.0.0.0",
+		"Description": "Adds an indicator of your hitbox... and more!",
+		"ApplicableVersion": "any",
+		"RepoUrl": "https://github.com/maributt/PixelPerfectPlus",
+		"DalamudApiLevel": 3,
+		"DownloadLinkInstall": "https://github.com/maributt/PixelPerfectPlus/releases/download/latest/latest.zip",
+		"IsHide": false,
+		"IsTestingExclusive": false,
+		"DownloadLinkTesting": "https://github.com/maributt/PixelPerfectPlus/releases/download/latest/latest.zip",
+        	"DownloadLinkUpdate": "https://github.com/maributt/PixelPerfectPlus/releases/download/latest/latest.zip",
+        	"DownloadCount": 0,
+        	"LastUpdated": "1619401022"
+	},
+	{
 		"Author": "Caraxi",
 		"Name": "OldMacroRecursion",
 		"InternalName": "OldMacroRecursion",
