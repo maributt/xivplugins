@@ -3,8 +3,8 @@
 		"Author": "maributt",
 		"Name": "FFLogs Lookup",
 		"InternalName": "FFLogsLookup",
-		"AssemblyVersion": "1.0.4.0",
-		"Description": "Display an inspected character's logs directly in-game!\n/!\\ The install is currently kind of bugged, if you install the plugin\n   you will need to restart your game to complete the installation\n   (there will be an error when you click install)",
+		"AssemblyVersion": "1.0.5.0",
+		"Description": "Display an inspected character's logs directly in-game!",
 		"ApplicableVersion": "any",
 		"RepoUrl": "https://github.com/maributt/FFLogsLookupPlugin",
 		"DalamudApiLevel": 3,
@@ -14,7 +14,7 @@
 		"DownloadLinkTesting": "https://github.com/maributt/FFLogsLookupPlugin/releases/download/latest/latest.zip",
         	"DownloadLinkUpdate": "https://github.com/maributt/FFLogsLookupPlugin/releases/download/latest/latest.zip",
         	"DownloadCount": 0,
-        	"LastUpdated": "1618444135"
+        	"LastUpdated": "1619801222"
 	},
 	
 	{
