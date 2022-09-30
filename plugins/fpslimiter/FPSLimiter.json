@@ -1,12 +1,13 @@
 {
   "Author": "maributt",
-  "Name": "FPS Limiter",
+  "Name": "fps limiter",
   "InternalName": "fpslimiter",
   "AssemblyVersion": "1.0.0.0",
-  "Description": "Cap your fps",
+  "Description": "",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/maributt/FPSLimiter",
   "DalamudApiLevel": 7,
   "LoadPriority": 0,
-  "Punchline": ""
+  "IconUrl": "https://raw.githubusercontent.com/maributt/xivplugins/main/plugins/fpslimiter/images/icon.png",
+  "Punchline": "cap your fps"
 }
