@@ -1,7 +1,7 @@
 [
     {
         "Author": "maributt",
-        "Name": "FPS Limiter",
+        "Name": "fps limiter",
         "Punchline": "",
         "Description": "Cap your fps",
         "InternalName": "fpslimiter",
@@ -10,12 +10,13 @@
         "ApplicableVersion": "any",
         "DalamudApiLevel": 7,
         "LoadPriority": 0,
+        "IconUrl": "https://raw.githubusercontent.com/maributt/xivplugins/main/plugins/fpslimiter/images/icon.png",
         "DownloadLinkInstall": "https://github.com/maributt/xivplugins/raw/main/plugins/fpslimiter/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/maributt/xivplugins/raw/main/plugins/fpslimiter/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maributt/xivplugins/raw/main/plugins/fpslimiter/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1664506960"
+        "LastUpdate": "1664556677"
     }
 ]
