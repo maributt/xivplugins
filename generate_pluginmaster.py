@@ -12,6 +12,7 @@ DEFAULTS = {
     'IsHide': False,
     'IsTestingExclusive': False,
     'ApplicableVersion': 'any',
+    'IconUrl': 'https://raw.githubusercontent.com/maributt/xivplugins/main/plugins/{plugin_name}/images/icon.png'
 }
 
 DUPLICATES = {
@@ -72,7 +73,7 @@ def add_extra_fields(manifests):
         # add default values if missing
         for k, v in DEFAULTS.items():
             if k not in manifest:
-                manifest[k] = v
+                manifest[k] = v.format(plugin_name=manifest["InternalName"])
         # duplicate keys as specified in DUPLICATES
         for source, keys in DUPLICATES.items():
             for k in keys:
