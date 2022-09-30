@@ -1,7 +1,7 @@
 {
   "Author": "maributt",
   "Name": "FPS Limiter",
-  "InternalName": "FPSLimiter",
+  "InternalName": "fpslimiter",
   "AssemblyVersion": "1.0.0.0",
   "Description": "Cap your fps",
   "ApplicableVersion": "any",
