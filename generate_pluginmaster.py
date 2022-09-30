@@ -73,7 +73,10 @@ def add_extra_fields(manifests):
         # add default values if missing
         for k, v in DEFAULTS.items():
             if k not in manifest:
-                manifest[k] = v.format(plugin_name=manifest["InternalName"])
+                if type(v) is str:
+                    manifest[k] = v.format(plugin_name=manifest["InternalName"])
+                else:
+                    manifest[k] = v
         # duplicate keys as specified in DUPLICATES
         for source, keys in DUPLICATES.items():
             for k in keys:
