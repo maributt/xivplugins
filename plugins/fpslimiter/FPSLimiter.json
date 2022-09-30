@@ -1,0 +1,12 @@
+{
+  "Author": "maributt",
+  "Name": "FPS Limiter",
+  "InternalName": "FPSLimiter",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "Cap your fps",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/maributt/FPSLimiter",
+  "DalamudApiLevel": 7,
+  "LoadPriority": 0,
+  "Punchline": ""
+}
