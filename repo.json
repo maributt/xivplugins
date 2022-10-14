@@ -20,7 +20,7 @@
         "DownloadLinkTesting": "https://github.com/maributt/xivplugins/raw/main/plugins/OldMacroRecursion/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maributt/xivplugins/raw/main/plugins/OldMacroRecursion/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1664558541"
+        "LastUpdate": "1665790984"
     },
     {
         "Author": "maributt",
@@ -40,6 +40,32 @@
         "DownloadLinkTesting": "https://github.com/maributt/xivplugins/raw/main/plugins/fpslimiter/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maributt/xivplugins/raw/main/plugins/fpslimiter/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1664558541"
+        "LastUpdate": "1665790984"
+    },
+    {
+        "Author": "akira0245",
+        "Name": "Reset enmity command",
+        "Punchline": "Add a reset striking dummy enmity command.",
+        "Description": "Add a reset striking dummy enmity command.",
+        "InternalName": "Reset enmity command",
+        "AssemblyVersion": "0.0.1.2",
+        "RepoUrl": "https://github.com/maributt/Reset-dummy-enmity-command",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "akira",
+            "striking",
+            "battle",
+            "train"
+        ],
+        "DalamudApiLevel": 7,
+        "LoadPriority": 0,
+        "IconUrl": "https://raw.githubusercontent.com/maributt/xivplugins/main/plugins/Reset-dummy-enmity-command/images/icon.png",
+        "DownloadLinkInstall": "https://github.com/maributt/xivplugins/raw/main/plugins/Reset enmity command/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/maributt/xivplugins/raw/main/plugins/Reset enmity command/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/maributt/xivplugins/raw/main/plugins/Reset enmity command/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1665790984"
     }
 ]
