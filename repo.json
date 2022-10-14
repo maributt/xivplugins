@@ -20,7 +20,7 @@
         "DownloadLinkTesting": "https://github.com/maributt/xivplugins/raw/main/plugins/OldMacroRecursion/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maributt/xivplugins/raw/main/plugins/OldMacroRecursion/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1665790984"
+        "LastUpdate": "1665791648"
     },
     {
         "Author": "maributt",
@@ -40,14 +40,14 @@
         "DownloadLinkTesting": "https://github.com/maributt/xivplugins/raw/main/plugins/fpslimiter/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maributt/xivplugins/raw/main/plugins/fpslimiter/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1665790984"
+        "LastUpdate": "1665791648"
     },
     {
         "Author": "akira0245",
         "Name": "Reset enmity command",
         "Punchline": "Add a reset striking dummy enmity command.",
         "Description": "Add a reset striking dummy enmity command.",
-        "InternalName": "Reset enmity command",
+        "InternalName": "Reset dummy enmity command",
         "AssemblyVersion": "0.0.1.2",
         "RepoUrl": "https://github.com/maributt/Reset-dummy-enmity-command",
         "ApplicableVersion": "any",
@@ -60,12 +60,12 @@
         "DalamudApiLevel": 7,
         "LoadPriority": 0,
         "IconUrl": "https://raw.githubusercontent.com/maributt/xivplugins/main/plugins/Reset-dummy-enmity-command/images/icon.png",
-        "DownloadLinkInstall": "https://github.com/maributt/xivplugins/raw/main/plugins/Reset enmity command/latest.zip",
+        "DownloadLinkInstall": "https://github.com/maributt/xivplugins/raw/main/plugins/Reset dummy enmity command/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/maributt/xivplugins/raw/main/plugins/Reset enmity command/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/maributt/xivplugins/raw/main/plugins/Reset enmity command/latest.zip",
+        "DownloadLinkTesting": "https://github.com/maributt/xivplugins/raw/main/plugins/Reset dummy enmity command/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/maributt/xivplugins/raw/main/plugins/Reset dummy enmity command/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1665790984"
+        "LastUpdate": "1665791648"
     }
 ]
