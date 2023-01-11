@@ -34,7 +34,7 @@
         "AssemblyVersion": "1.0.0.0",
         "RepoUrl": "https://github.com/maributt/FPSLimiter",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 7,
+        "DalamudApiLevel": 8,
         "LoadPriority": 0,
         "IconUrl": "https://raw.githubusercontent.com/maributt/xivplugins/main/plugins/fpslimiter/images/icon.png",
         "DownloadLinkInstall": "https://github.com/maributt/xivplugins/raw/main/plugins/fpslimiter/latest.zip",
@@ -43,7 +43,7 @@
         "DownloadLinkTesting": "https://github.com/maributt/xivplugins/raw/main/plugins/fpslimiter/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maributt/xivplugins/raw/main/plugins/fpslimiter/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1665792578"
+        "LastUpdate": "1673457218"
     },
     {
         "Author": "Caraxi",
