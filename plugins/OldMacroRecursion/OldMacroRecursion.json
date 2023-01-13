@@ -9,7 +9,10 @@
   "Tags": [
     "Macro"
   ],
-  "DalamudApiLevel": 7,
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
   "LoadPriority": 0,
-  "Punchline": "the old version of what is now Macro Chain"
+  "Punchline": "the old version of what is now Macro Chain",
+  "AcceptsFeedback": true
 }
