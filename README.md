@@ -13,3 +13,6 @@ and add the following link to your list of Custom Plugin Repositories
 
 Simply save and bring up the `/xlplugins` Plugin Installer window to
 install any of my plugins afterwards!
+
+<i>N.B. I have some plugins forked with added features, if you'd like to try them
+<br>out feel free to build them and load the dlls through `/xlsettings`!</i>
