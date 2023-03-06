@@ -5,7 +5,7 @@
         "Punchline": "",
         "Description": "Cap your fps",
         "InternalName": "fpslimiter",
-        "AssemblyVersion": "1.0.0.0",
+        "AssemblyVersion": "23.3.6.0",
         "RepoUrl": "https://github.com/maributt/FPSLimiter",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -17,7 +17,7 @@
         "DownloadLinkTesting": "https://github.com/maributt/xivplugins/raw/main/plugins/fpslimiter/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maributt/xivplugins/raw/main/plugins/fpslimiter/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1678064881"
+        "LastUpdate": "1678065979"
     },
     {
         "Author": "akira0245",
@@ -43,7 +43,7 @@
         "DownloadLinkTesting": "https://github.com/maributt/xivplugins/raw/main/plugins/Reset-dummy-enmity-command/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maributt/xivplugins/raw/main/plugins/Reset-dummy-enmity-command/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1678064881"
+        "LastUpdate": "1678065979"
     },
     {
         "Author": "Caraxi",
@@ -66,6 +66,6 @@
         "DownloadLinkTesting": "https://github.com/maributt/xivplugins/raw/main/plugins/OldMacroRecursion/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maributt/xivplugins/raw/main/plugins/OldMacroRecursion/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1678064881"
+        "LastUpdate": "1678065979"
     }
 ]
