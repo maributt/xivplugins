@@ -12,8 +12,11 @@
     "battle",
     "train"
   ],
-  "DalamudApiLevel": 7,
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
   "LoadPriority": 0,
   "IconUrl": "https://raw.githubusercontent.com/maributt/xivplugins/main/plugins/Reset-dummy-enmity-command/images/icon.png",
-  "Punchline": "Add a reset striking dummy enmity command."
+  "Punchline": "Add a reset striking dummy enmity command.",
+  "AcceptsFeedback": true
 }
