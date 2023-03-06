@@ -17,30 +17,7 @@
         "DownloadLinkTesting": "https://github.com/maributt/xivplugins/raw/main/plugins/fpslimiter/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maributt/xivplugins/raw/main/plugins/fpslimiter/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1673957272"
-    },
-    {
-        "Author": "Caraxi",
-        "Name": "OldMacroRecursion",
-        "Punchline": "the old version of what is now Macro Chain",
-        "Description": "Execute macros from macros. /runmacro ## [shared] [line]",
-        "InternalName": "OldMacroRecursion",
-        "AssemblyVersion": "1.0.0.0",
-        "RepoUrl": "https://github.com/maributt/OldMacroRecursion",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "Macro"
-        ],
-        "DalamudApiLevel": 8,
-        "LoadPriority": 0,
-        "DownloadLinkInstall": "https://github.com/maributt/xivplugins/raw/main/plugins/OldMacroRecursion/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "IconUrl": "https://raw.githubusercontent.com/maributt/xivplugins/main/plugins/OldMacroRecursion/images/icon.png",
-        "DownloadLinkTesting": "https://github.com/maributt/xivplugins/raw/main/plugins/OldMacroRecursion/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/maributt/xivplugins/raw/main/plugins/OldMacroRecursion/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1673957272"
+        "LastUpdate": "1678064881"
     },
     {
         "Author": "akira0245",
@@ -66,6 +43,29 @@
         "DownloadLinkTesting": "https://github.com/maributt/xivplugins/raw/main/plugins/Reset-dummy-enmity-command/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maributt/xivplugins/raw/main/plugins/Reset-dummy-enmity-command/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1673957272"
+        "LastUpdate": "1678064881"
+    },
+    {
+        "Author": "Caraxi",
+        "Name": "OldMacroRecursion",
+        "Punchline": "the old version of what is now Macro Chain",
+        "Description": "Execute macros from macros. /runmacro ## [shared] [line]",
+        "InternalName": "OldMacroRecursion",
+        "AssemblyVersion": "1.0.0.0",
+        "RepoUrl": "https://github.com/maributt/OldMacroRecursion",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "Macro"
+        ],
+        "DalamudApiLevel": 8,
+        "LoadPriority": 0,
+        "DownloadLinkInstall": "https://github.com/maributt/xivplugins/raw/main/plugins/OldMacroRecursion/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "IconUrl": "https://raw.githubusercontent.com/maributt/xivplugins/main/plugins/OldMacroRecursion/images/icon.png",
+        "DownloadLinkTesting": "https://github.com/maributt/xivplugins/raw/main/plugins/OldMacroRecursion/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/maributt/xivplugins/raw/main/plugins/OldMacroRecursion/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1678064881"
     }
 ]
