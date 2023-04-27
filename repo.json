@@ -17,7 +17,7 @@
         "DownloadLinkTesting": "https://github.com/maributt/xivplugins/raw/main/plugins/fpslimiter/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maributt/xivplugins/raw/main/plugins/fpslimiter/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1678065979"
+        "LastUpdate": "1678080323"
     },
     {
         "Author": "akira0245",
@@ -34,7 +34,7 @@
             "battle",
             "train"
         ],
-        "DalamudApiLevel": 7,
+        "DalamudApiLevel": 8,
         "LoadPriority": 0,
         "IconUrl": "https://raw.githubusercontent.com/maributt/xivplugins/main/plugins/Reset-dummy-enmity-command/images/icon.png",
         "DownloadLinkInstall": "https://github.com/maributt/xivplugins/raw/main/plugins/Reset-dummy-enmity-command/latest.zip",
@@ -43,7 +43,7 @@
         "DownloadLinkTesting": "https://github.com/maributt/xivplugins/raw/main/plugins/Reset-dummy-enmity-command/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maributt/xivplugins/raw/main/plugins/Reset-dummy-enmity-command/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1678065979"
+        "LastUpdate": "1678080323"
     },
     {
         "Author": "Caraxi",
@@ -66,6 +66,6 @@
         "DownloadLinkTesting": "https://github.com/maributt/xivplugins/raw/main/plugins/OldMacroRecursion/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maributt/xivplugins/raw/main/plugins/OldMacroRecursion/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1678065979"
+        "LastUpdate": "1678080323"
     }
 ]
