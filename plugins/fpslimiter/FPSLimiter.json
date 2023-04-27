@@ -2,7 +2,7 @@
   "Author": "maributt",
   "Name": "fps limiter",
   "InternalName": "fpslimiter",
-  "AssemblyVersion": "23.3.6.0",
+  "AssemblyVersion": "23.4.27.0",
   "Description": "Cap your fps",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/maributt/FPSLimiter",
