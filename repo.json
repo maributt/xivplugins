@@ -23,7 +23,7 @@
         "DownloadLinkTesting": "https://github.com/maributt/xivplugins/raw/main/plugins/Reset-dummy-enmity-command/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maributt/xivplugins/raw/main/plugins/Reset-dummy-enmity-command/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1683570004"
+        "LastUpdate": "1683570088"
     },
     {
         "Author": "Caraxi",
@@ -46,7 +46,27 @@
         "DownloadLinkTesting": "https://github.com/maributt/xivplugins/raw/main/plugins/OldMacroRecursion/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maributt/xivplugins/raw/main/plugins/OldMacroRecursion/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1683570004"
+        "LastUpdate": "1683570088"
+    },
+    {
+        "Author": "maributt",
+        "Name": "Auto-umbrella+",
+        "Punchline": "An auto-umbrella for every job!",
+        "Description": "Auto-umbrella+ lets you set your auto-umbrella to different parasols based on the job you're playing\nNot much configuration needed, just switch to any job you'd like and set up your auto-umbrella as you normally would!",
+        "InternalName": "auto-umbrellaplus",
+        "AssemblyVersion": "23.5.8.0",
+        "RepoUrl": "https://github.com/maributt/auto-umbrellaplus",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 8,
+        "LoadPriority": 0,
+        "IconUrl": "https://raw.githubusercontent.com/maributt/xivplugins/main/plugins/auto-umbrellaplus/images/icon.png",
+        "DownloadLinkInstall": "https://github.com/maributt/xivplugins/raw/main/plugins/auto-umbrellaplus/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/maributt/xivplugins/raw/main/plugins/auto-umbrellaplus/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/maributt/xivplugins/raw/main/plugins/auto-umbrellaplus/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1683570088"
     },
     {
         "Author": "maributt",
@@ -66,6 +86,6 @@
         "DownloadLinkTesting": "https://github.com/maributt/xivplugins/raw/main/plugins/fpslimiter/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maributt/xivplugins/raw/main/plugins/fpslimiter/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1683570004"
+        "LastUpdate": "1683570088"
     }
 ]
