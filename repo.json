@@ -5,7 +5,7 @@
         "Punchline": "An auto-umbrella for every job & gearset!",
         "Description": "Auto-umbrella+ lets you set your auto-umbrella to different parasols based on the gearset you're wearing\nNot much configuration needed, just switch to any job/gearset you'd like and set up your auto-umbrella as you normally would!",
         "InternalName": "auto-umbrellaplus",
-        "AssemblyVersion": "23.5.8.0",
+        "AssemblyVersion": "23.6.24.0",
         "RepoUrl": "https://github.com/maributt/auto-umbrellaplus",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 8,
@@ -17,7 +17,7 @@
         "DownloadLinkTesting": "https://github.com/maributt/xivplugins/raw/main/plugins/auto-umbrellaplus/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maributt/xivplugins/raw/main/plugins/auto-umbrellaplus/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1687653150"
+        "LastUpdate": "1687653490"
     },
     {
         "Author": "maributt",
@@ -37,7 +37,7 @@
         "DownloadLinkTesting": "https://github.com/maributt/xivplugins/raw/main/plugins/fpslimiter/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maributt/xivplugins/raw/main/plugins/fpslimiter/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1687653150"
+        "LastUpdate": "1687653490"
     },
     {
         "Author": "akira0245",
@@ -63,7 +63,7 @@
         "DownloadLinkTesting": "https://github.com/maributt/xivplugins/raw/main/plugins/Reset-dummy-enmity-command/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maributt/xivplugins/raw/main/plugins/Reset-dummy-enmity-command/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1687653150"
+        "LastUpdate": "1687653490"
     },
     {
         "Author": "Caraxi",
@@ -86,6 +86,6 @@
         "DownloadLinkTesting": "https://github.com/maributt/xivplugins/raw/main/plugins/OldMacroRecursion/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maributt/xivplugins/raw/main/plugins/OldMacroRecursion/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1687653150"
+        "LastUpdate": "1687653490"
     }
 ]
