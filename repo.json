@@ -17,13 +17,13 @@
         "DownloadLinkTesting": "https://github.com/maributt/xivplugins/raw/main/plugins/fpslimiter/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maributt/xivplugins/raw/main/plugins/fpslimiter/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1720380959"
+        "LastUpdate": "1720381828"
     },
     {
         "Author": "Caraxi",
         "Name": "OldMacroRecursion",
         "Punchline": "the old version of what is now Macro Chain",
-        "Description": "Execute macros from macros. /runmacro ## [shared] [line]",
+        "Description": "Execute macros from macros. /runmacro ## [shared] [line]\nCheck out Macro Chain Redux by Aida Enna (from: https://raw.githubusercontent.com/Aida-Enna/XIVPlugins/main/repo.json)",
         "InternalName": "OldMacroRecursion",
         "AssemblyVersion": "1.0.0.0",
         "RepoUrl": "https://github.com/maributt/OldMacroRecursion",
@@ -40,7 +40,7 @@
         "DownloadLinkTesting": "https://github.com/maributt/xivplugins/raw/main/plugins/OldMacroRecursion/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maributt/xivplugins/raw/main/plugins/OldMacroRecursion/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1720380959"
+        "LastUpdate": "1720381828"
     },
     {
         "Author": "akira0245",
@@ -66,7 +66,7 @@
         "DownloadLinkTesting": "https://github.com/maributt/xivplugins/raw/main/plugins/Reset-dummy-enmity-command/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maributt/xivplugins/raw/main/plugins/Reset-dummy-enmity-command/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1720380959"
+        "LastUpdate": "1720381828"
     },
     {
         "Author": "maributt",
@@ -86,6 +86,6 @@
         "DownloadLinkTesting": "https://github.com/maributt/xivplugins/raw/main/plugins/auto-umbrellaplus/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maributt/xivplugins/raw/main/plugins/auto-umbrellaplus/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1720380959"
+        "LastUpdate": "1720381828"
     }
 ]
