@@ -17,7 +17,50 @@
         "DownloadLinkTesting": "https://github.com/maributt/xivplugins/raw/main/plugins/auto-umbrellaplus/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maributt/xivplugins/raw/main/plugins/auto-umbrellaplus/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1720832544"
+        "LastUpdate": "1731643093"
+    },
+    {
+        "Author": "maributt",
+        "Name": "fps limiter",
+        "Punchline": "",
+        "Description": "Cap your fps",
+        "InternalName": "fpslimiter",
+        "AssemblyVersion": "24.11.15.0",
+        "RepoUrl": "https://github.com/maributt/FPSLimiter",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 10,
+        "LoadPriority": 0,
+        "IconUrl": "https://raw.githubusercontent.com/maributt/xivplugins/main/plugins/fpslimiter/images/icon.png",
+        "DownloadLinkInstall": "https://github.com/maributt/xivplugins/raw/main/plugins/fpslimiter/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/maributt/xivplugins/raw/main/plugins/fpslimiter/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/maributt/xivplugins/raw/main/plugins/fpslimiter/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1731643093"
+    },
+    {
+        "Author": "Caraxi",
+        "Name": "OldMacroRecursion",
+        "Punchline": "the old version of what is now Macro Chain",
+        "Description": "Execute macros from macros. /runmacro ## [shared] [line]\nCheck out Macro Chain Redux by Aida Enna (from: https://raw.githubusercontent.com/Aida-Enna/XIVPlugins/main/repo.json)",
+        "InternalName": "OldMacroRecursion",
+        "AssemblyVersion": "1.0.0.0",
+        "RepoUrl": "https://github.com/maributt/OldMacroRecursion",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "Macro"
+        ],
+        "DalamudApiLevel": 11,
+        "LoadPriority": 0,
+        "DownloadLinkInstall": "https://github.com/maributt/xivplugins/raw/main/plugins/OldMacroRecursion/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "IconUrl": "https://raw.githubusercontent.com/maributt/xivplugins/main/plugins/OldMacroRecursion/images/icon.png",
+        "DownloadLinkTesting": "https://github.com/maributt/xivplugins/raw/main/plugins/OldMacroRecursion/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/maributt/xivplugins/raw/main/plugins/OldMacroRecursion/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1731643093"
     },
     {
         "Author": "akira0245",
@@ -34,7 +77,7 @@
             "battle",
             "train"
         ],
-        "DalamudApiLevel": 10,
+        "DalamudApiLevel": 11,
         "LoadPriority": 0,
         "IconUrl": "https://raw.githubusercontent.com/maributt/xivplugins/main/plugins/Reset-dummy-enmity-command/images/icon.png",
         "DownloadLinkInstall": "https://github.com/maributt/xivplugins/raw/main/plugins/Reset-dummy-enmity-command/latest.zip",
@@ -43,49 +86,6 @@
         "DownloadLinkTesting": "https://github.com/maributt/xivplugins/raw/main/plugins/Reset-dummy-enmity-command/latest.zip",
         "DownloadLinkUpdate": "https://github.com/maributt/xivplugins/raw/main/plugins/Reset-dummy-enmity-command/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1720832544"
-    },
-    {
-        "Author": "Caraxi",
-        "Name": "OldMacroRecursion",
-        "Punchline": "the old version of what is now Macro Chain",
-        "Description": "Execute macros from macros. /runmacro ## [shared] [line]\nCheck out Macro Chain Redux by Aida Enna (from: https://raw.githubusercontent.com/Aida-Enna/XIVPlugins/main/repo.json)",
-        "InternalName": "OldMacroRecursion",
-        "AssemblyVersion": "1.0.0.0",
-        "RepoUrl": "https://github.com/maributt/OldMacroRecursion",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "Macro"
-        ],
-        "DalamudApiLevel": 10,
-        "LoadPriority": 0,
-        "DownloadLinkInstall": "https://github.com/maributt/xivplugins/raw/main/plugins/OldMacroRecursion/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "IconUrl": "https://raw.githubusercontent.com/maributt/xivplugins/main/plugins/OldMacroRecursion/images/icon.png",
-        "DownloadLinkTesting": "https://github.com/maributt/xivplugins/raw/main/plugins/OldMacroRecursion/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/maributt/xivplugins/raw/main/plugins/OldMacroRecursion/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1720832544"
-    },
-    {
-        "Author": "maributt",
-        "Name": "fps limiter",
-        "Punchline": "",
-        "Description": "Cap your fps",
-        "InternalName": "fpslimiter",
-        "AssemblyVersion": "24.7.7.0",
-        "RepoUrl": "https://github.com/maributt/FPSLimiter",
-        "ApplicableVersion": "any",
-        "DalamudApiLevel": 10,
-        "LoadPriority": 0,
-        "IconUrl": "https://raw.githubusercontent.com/maributt/xivplugins/main/plugins/fpslimiter/images/icon.png",
-        "DownloadLinkInstall": "https://github.com/maributt/xivplugins/raw/main/plugins/fpslimiter/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/maributt/xivplugins/raw/main/plugins/fpslimiter/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/maributt/xivplugins/raw/main/plugins/fpslimiter/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1720832544"
+        "LastUpdate": "1731643093"
     }
 ]
